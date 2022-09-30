@@ -1,3 +1,9 @@
+'''
+Module: coaha 
+Description: script to compute COAHA metric.
+Author: nasibullah104@gmail.com
+paper: Thinking Hallucination for Video Captioning.
+'''
 
 import os
 from tqdm import tqdm
