@@ -1,6 +1,14 @@
-# THVC (Thinking Hallucination for Video Captioning)
+# Thinking Hallucination for Video Captioning (THVC)
 
-Instructions to run the code
+Official PyTorch implementation for the paper: "Thinking Hallucination for video captioning" accepted at ACCV 2022.
+
+👉 You can find the camera-ready paper [here](https://openaccess.thecvf.com/content/ACCV2022/papers/Ullah_Thinking_Hallucination_for_Video_Captioning_ACCV_2022_paper.pdf)
+
+## DOI
+
+[![DOI](https://zenodo.org/badge/531304526.svg)](https://zenodo.org/badge/latestdoi/531304526)
+
+## Instructions to run the code
 
 1. Install packages mentioned in requirements.txt. Format: pip install package-name
 
